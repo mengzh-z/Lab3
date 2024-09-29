@@ -35,6 +35,7 @@ what external dependencies our project requires. If you open
 `pom.xml`, you will see a section like below which indicates that our project depends
 on the `junit` and `json` libraries.
 
+j
 ```xml
 <dependencies>
     <!-- https://mvnrepository.com/artifact/org.json/json -->
